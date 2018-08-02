@@ -1,2 +1,3 @@
 # hello-world
-I am learning github! This is my first repository
+Hi humans)))
+I am learning github! This is my first repository. I am beginner in programming.
